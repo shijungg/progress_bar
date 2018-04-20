@@ -1,6 +1,5 @@
 #coding:utf-8
 import sys
-import time
 
 class ProgressBar():
     current_step = 0
