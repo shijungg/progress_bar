@@ -14,7 +14,7 @@ class ProgressBar():
         self.current_step += 1
 
         #The percentage information
-        info_percent = str(self.current_step / float(self.max_step) * 100) + '% '
+        info_percent = str(int(self.current_step / float(self.max_step) * 100)) + '% '
         #The progress bar graph
         cnt_current_block = int((self.current_step / float(self.max_step)) * self.bar_length)
         info_current_block = ['█'] * cnt_current_block
