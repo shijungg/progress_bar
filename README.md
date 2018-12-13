@@ -1,4 +1,4 @@
-# progress_bar ![](https://img.shields.io/badge/language-Python-blue.svg) [![Build Status](https://travis-ci.org/shijungg/progress_bar.svg?branch=master)](https://travis-ci.org/shijungg/progress_bar)
+# progress_bar ![](https://img.shields.io/badge/language-Python-blue.svg) ![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
 
 ## Overview
 
