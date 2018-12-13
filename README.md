@@ -1,4 +1,4 @@
-# progress_bar
+# progress_bar [![Build Status](https://travis-ci.org/shijungg/progress_bar.svg?branch=master)](https://travis-ci.org/shijungg/progress_bar)
 
 ## Overview
 
